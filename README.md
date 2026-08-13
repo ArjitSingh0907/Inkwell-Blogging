@@ -5,7 +5,7 @@
 
 [![Platform: Web](https://img.shields.io/badge/Platform-Web-blue.svg?style=flat-square)](#)
 [![Stack: Fullstack](https://img.shields.io/badge/Architecture-Fullstack%20Web-007acc.svg?style=flat-square)](#-tech-stack)
-[![Status: Completed](https://img.shields.io/badge/Status-Active-brightgreen.svg?style=flat-square)](#)
+[![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen.svg?style=flat-square)](#)
 
 ---
 
